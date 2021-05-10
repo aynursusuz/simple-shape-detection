@@ -1,2 +1,2 @@
 # simple-shape-detection
-herkese merhaba
+herkese merhaba bugün sizlere basit yazılım tarifleri vereceğim.
